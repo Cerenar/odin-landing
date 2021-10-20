@@ -192,3 +192,12 @@ button {
 	border-width: 2px;
 	border-color: #F9FAF8;
 }
+
+.footer {
+	height: 60px;
+	background-color: #1F2937;
+	color: #E5E7EB;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
